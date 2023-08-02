@@ -1,0 +1,20 @@
+{
+  "blocklyMusic": {
+    "htmlInstrMusic": {
+      "debug": "Questo codice produce una melodia simile a quella dell'obiettivo ma c'è qualche errore! Prova a sistemarlo cambiando meno blocchi di codice possibile!"
+    },
+    "interface": {
+      "goalCanvasTitle": "Obiettivo (riproduci questa melodia!)",
+      "userCanvasTitle": "La tua melodia",
+      "execute": "Esegui",
+      "stopMusic": "Ferma la musica",
+      "blocks": "Blocchi usati: ",
+      "selectExercise": "Seleziona un esercizio: "
+    },
+    "feedbacks": {
+      "success": "Complimenti! Hai riprodotto correttamente la melodia!",
+      "tooLong": "Attenzione! La tua melodia è troppo lunga e supera il numero di battute disponibili!",
+      "generic": "C'è qualcosa che non va! Prova ad ascoltare le due melodie e vedere se sono uguali! Usa il mouse per controllare le note e le durate sulla melodia Obiettivo!"
+    }
+  }
+}
